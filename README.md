@@ -5,3 +5,4 @@ Täältä löytyvät tehtävänpalautukset:
 
 - [Viikko 1](https://janteh.github.io/pilvipalvelut-webkehitys/viikko1/)
 - [Viikko 2](https://janteh.github.io/pilvipalvelut-webkehitys/viikko2/)
+- [Viikko 2](./viikko2/index.md)
