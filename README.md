@@ -5,3 +5,4 @@ Täältä löytyvät tehtävänpalautukset:
 
 - [Viikko 1](./viikko1/index.md)
 - [Viikko 2](./viikko2/index.md)
+- [Viikko 3](./viikko3/index.md)
