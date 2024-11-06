@@ -1,6 +1,8 @@
 # pilvipalvelut-webkehitys
 DIG001AS3A-3003 Pilvipalvelut web-kehityksessä Haaga-Helian kurssin tehtävien palautuskirjasto
 
+[Tehtävänannot](https://github.com/Pilvipalvelut/web-kehityksessa/blob/main/tehtavat.md)
+
 Täältä löytyvät tehtävänpalautukset:
 
 - [Viikko 1](./viikko1/index.md)
