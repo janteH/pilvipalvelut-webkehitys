@@ -10,4 +10,4 @@ Täältä löytyvät tehtävänpalautukset:
 - [Viikko 3](./viikko3/index.html)
 - [Viikko 4](./viikko4/index.html)
 - [Viikko 5](./viikko5/index.md)
-- [Viikko 6](./viikko6/index.md)
+- [Viikko 6](./viikko6/index.html)
