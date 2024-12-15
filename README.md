@@ -11,4 +11,5 @@ Täältä löytyvät tehtävänpalautukset:
 - [Viikko 4](./viikko4/index.html)
 - [Viikko 5](./viikko5/index.md)
 - [Viikko 6](./viikko6/index.html)
-- [Harjoitustyö](https://github.com/janteH/pilvipalvelut-web-harjoitustyo/blob/main/README.md)
+- [Harjoitustyö](./harjoitustyo/index.html)
+- [Harjoitustyön lähdekoodi ja raportti](https://github.com/janteH/pilvipalvelut-web-harjoitustyo/blob/main/README.md)
